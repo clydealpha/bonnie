@@ -1,0 +1,5 @@
+{
+  "name": "Bonnie 2.0 SEI Dashboard",
+  "description": "A React web application providing an Execution Intelligence Control Dashboard, featuring real-time monitoring, ESG compliance, blockchain anchoring, and an AI-powered companion using the Gemini API.",
+  "requestFramePermissions": []
+}
